@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="kumajaya/android_device_wingtech_wt88047" path="device/wingtech/wt88047" remote="github" revision="cm-13.0" />
+  <project name="kumajaya/android_kernel_cyanogen_msm8916" path="kernel/cyanogen/msm8916" remote="github" revision="cm-13.0-amss-2.1-wt88047" />
+  <project name="kumajaya/proprietary_vendor_wingtech" path="vendor/wingtech" remote="github" revision="cm-13.0" />
+  <project name="kumajaya/android_device_cyanogen_msm8916-common" path="device/cyanogen/msm8916-common" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_vendor_qcom_opensource_dataservices" path="vendor/qcom/opensource/dataservices" remote="github" revision="cm-13.0" />
+  <project name="kumajaya/android_packages_apps_SnapdragonCamera" path="packages/apps/SnapdragonCamera" remote="github" revision="cm-13.0" />
+</manifest>

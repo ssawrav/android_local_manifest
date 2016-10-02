@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="ssawrav/android_device_wingtech_wt88047" path="device/wingtech/wt88047" remote="github" revision="cm-13.0" />
-  <project name="ssawrav/android_kernel_cyanogen_msm8916" path="kernel/cyanogen/msm8916" remote="github" revision="cm-13.0-wt88047" />
+  <project name="ssawrav/android_device_wingtech_wt88047" path="device/wingtech/wt88047" remote="github" revision="cm-13.0-new" />
+  <project name="ssawrav/Xiaomi_Kernel_OpenSource" path="kernel/cyanogen/msm8916" remote="github" revision="ik-3.0" />
   <project name="ssawrav/proprietary_vendor_wingtech" path="vendor/wingtech" remote="github" revision="cm-13.0" />
-  <project name="ssawrav/android_device_cyanogen_msm8916-common" path="device/cyanogen/msm8916-common" remote="github" revision="cm-13.0" />
-  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-13.0/>
+  <project name="ssawrav/android_device_cyanogen_msm8916-common" path="device/cyanogen/msm8916-common" remote="github" revision="cm-13.0-new" />
+  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-13.0" />
 </manifest>
